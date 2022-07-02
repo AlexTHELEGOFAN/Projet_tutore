@@ -1,2 +1,2 @@
 # Projet_tutore
-Projet tutoré réalisé lors mon DUT Informatique, dans le module Ergonomie, réalisé en juin 2021.
+Projet tutoré réalisé lors de mon DUT Informatique, en groupe de 6 personnes pendant une année de janvier 2021 à janvier 2022.  
